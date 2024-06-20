@@ -1,0 +1,129 @@
+######### Functional Dependecy Set #########
+
+Branch Relation
+Branch_ID → {Location, Head_ID, Email, Telephone_No , Budget}
+
+Item Relation
+Itemcode → {Item_Name, cost}
+
+Inventory Relation
+{Branch_ID, Item_Code } → Stock
+
+Unit Relation
+Unit_Id → Unit_Name 
+
+Associated_Unit Relation
+{Branch_ID , Unit_ID} → Cordinator_ID
+
+Personnel Relation
+Personnel_ID → {Branch_ID, Unit_ID, Name, Gender, Designation, Hire_Date, Salary, Phone_No, Email, DOB, Service_Status, Years_of_Experience, Address}
+
+Case Relation
+Case_ID → Case_Title, Reporting_Time, Crime_Location, Status
+
+Assigned_Case Relation
+{Personnel_ID, Branch_ID, Unit_ID, Case_ID} → Role
+
+Evidence Relation
+{Case_ID, Iem_Found} → Location_Found, Date_Time_Found
+
+Criminal Record
+Criminal_ID → {C_Name, Gender, DOB, Nationality, Contact_No, Known_Address}
+
+Witness Relation
+{Case_ID, W_Name} → {Gender, DOB, Contact_No, Address, Witness_Statement}
+
+Victim Relation
+{Case_ID, V_Name} → {Gender, DOB, Contact_No, Address, Victim_Description}
+
+Suspect Relation
+{Case_ID, S_Name} → {Gender, DOB, Contact_No, Address, Suspect_Description}
+
+
+######### Minimal FD Set #########
+
+
+Branch Relation:
+Branch_ID → Location
+Branch_ID → Head_ID
+Branch_ID → Email
+Branch_ID → Telephone_No
+Branch_ID → Budget
+
+
+Item Relation:
+Itemcode → Item_Name
+Itemcode → Cost
+
+Inventory Relation:
+{Branch_ID, Item_Code} → Stock
+
+Unit Relation:
+Unit_Id → Unit_Name
+
+Associated_Unit Relation:
+{Branch_ID, Unit_ID} → Cordinator_ID
+
+Personnel Relation:
+Personnel_ID → Branch_ID
+Personnel_ID → Unit_ID
+Personnel_ID → Name
+Personnel_ID → Gender
+Personnel_ID → Designation
+Personnel_ID → Hire_Date
+Personnel_ID → Salary
+Personnel_ID → Phone_No
+Personnel_ID → Email
+Personnel_ID → DOB
+Personnel_ID → Service_Status
+Personnel_ID → Years_of_Experience
+Personnel_ID → Address
+
+Case Relation:
+Case_ID → Case_Title
+Case_ID → Reporting_Time
+Case_ID → Crime_Location
+Case_ID → Status
+
+Assigned_Case to personnel Relation:
+{Personnel_ID, Branch_ID, Unit_ID, Case_ID} → Role
+
+Evidence Relation:
+{Case_ID, Item_Found} → Location_Found
+{Case_ID, Item_Found} → Date_Time_Found
+
+Criminal_Record Relation:
+Criminal_ID → C_Name
+Criminal_ID → Gender
+Criminal_ID → DOB
+Criminal_ID → Nationality
+Criminal_ID → Contact_No
+Criminal_ID → Known_Address
+
+Verdict Relation:
+{Criminal_ID, Case_ID} -> Case_end_date
+{Criminal_ID, Case_ID} -> Court_verdict
+
+
+Witness Relation:
+{Case_ID, W_Name} → Gender
+{Case_ID, W_Name} → DOB
+{Case_ID, W_Name} → Contact_No
+{Case_ID, W_Name} → Address
+{Case_ID, W_Name} → Witness_Statement
+
+Victim:
+{Case_ID, V_Name} → Gender
+{Case_ID, V_Name} → DOB
+{Case_ID, V_Name} → Contact_No
+{Case_ID, V_Name} → Address
+{Case_ID, V_Name} → Victim_Description
+
+Suspect:
+{Case_ID, S_Name} → Gender
+{Case_ID, S_Name} → DOB
+{Case_ID, S_Name} → Contact_No
+{Case_ID, S_Name} → Address
+{Case_ID, S_Name} → Suspect_Description
+
+
