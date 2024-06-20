@@ -1,0 +1,128 @@
+﻿Case_ID,Criminal_ID,Case_End_Date,Court_Verdict
+RC-01/2021/ACE/DLI,C001,2021-06-28 08:15:00,Convicted under IPC 302 for murder. Sentenced to life imprisonment.
+RC-01/2021/ACE/CHE,C002,2021-07-27 11:45:00,Convicted under IPC 10/13 for unlawful activities. Sentenced to 7 years imprisonment.
+RC-01/2021/ACE/MUM,C003,2021-08-02 09:20:00,Guilty of manslaughter under IPC 304. Sentenced to 15 years imprisonment.
+RC-01/2021/ACE/LKW,C004,2021-08-20 10:30:00,Convicted under IPC 420 for insurance fraud. Sentenced to 8 years imprisonment.
+RC-01/2021/ACE/JMU,C005,2021-09-03 15:45:00,Found guilty under IPC 25/27 of illegal possession of firearms. Sentenced to 12 years imprisonment.
+RC-06/2021/ACE/CHE,C006,2021-09-29 16:10:00,Convicted under IPC 25/27 for arms trafficking. Sentenced to 20 years imprisonment.
+RC-06/2021/ACE/MUM,C007,2021-09-19 12:30:00,Guilty of piracy under IPC 151. Sentenced to life imprisonment.
+RC-06/2021/ACE/GUW,C008,2021-08-23 09:45:00,Convicted under IPC 120B for conspiracy. Sentenced to 10 years imprisonment.
+RC-01/2021/ACE/BGL,C009,2021-08-12 17:20:00,Found guilty under NDPS Act for drug trafficking. Sentenced to 25 years imprisonment.
+RC-02/2021/ACE/DLI,C010,2021-11-01 08:30:00,Convicted under IPC 171B for bribery. Sentenced to 15 years imprisonment.
+RC-02/2021/ACE/GUW,C011,2022-02-25 15:20:00,Guilty of terrorism under IPC 16/18. Sentenced to life imprisonment.
+RC-02/2021/ACE/HYD,C012,2021-12-05 10:50:00,Convicted under IPC 420 for consumer fraud. Sentenced to 5 years imprisonment.
+RC-02/2021/ACE/LKW,C013,2022-01-15 16:20:00,Convicted under IPC 147 for rioting. Sentenced to 7 years imprisonment.
+RC-02/2021/ACE/JMU,C014,2021-12-12 14:10:00,Guilty of extremist violence under IPC 121. Sentenced to 20 years imprisonment.
+RC-02/2021/ACE/CHE,C015,2022-03-07 10:45:00,Found guilty under IPC 420 for fare evasion. Sentenced to 6 months imprisonment.
+RC-02/2021/ACE/AMD,C016,2022-03-17 09:35:00,Convicted under NDPS Act for drug trafficking. Sentenced to 25 years imprisonment.
+RC-02/2021/ACE/KOL,C017,2021-10-29 14:55:00,Guilty of operating a pyramid scheme under IPC 420. Sentenced to 15 years imprisonment.
+RC-02/2021/ACE/BGL,C018,2022-02-20 16:40:00,Convicted under IPC 120B for attempted terrorism. Sentenced to 20 years imprisonment.
+RC-03/2021/ACE/DLI,C001,2021-11-07 08:15:00,Found guilty under IPC 411 for smuggling. Sentenced to 10 years imprisonment.
+RC-03/2021/ACE/GUW,C020,2021-11-02 10:25:00,Convicted of human trafficking. Released due to lack of evidence.
+RC-03/2021/ACE/HYD,C021,2021-08-03 16:30:00,Guilty of murder under IPC 302. Sentenced to death.
+RC-03/2021/ACE/MUM,C022,2021-08-04 14:20:00,Found guilty under IPC 13A for illegal gambling. Sentenced to 2 years imprisonment.
+RC-04/2021/ACE/DLI,C023,2021-09-01 09:45:00,Convicted of human trafficking under IPC 370. Sentenced to life imprisonment.
+RC-04/2021/ACE/GUW,C024,2021-09-02 11:20:00,Guilty of explosion under IPC 286. Sentenced to 10 years imprisonment.
+RC-04/2021/ACE/HYD,C025,2021-09-03 13:55:00,Convicted under IPC 392 for robbery. Sentenced to 8 years imprisonment.
+RC-04/2021/ACE/MUM,C007,2021-08-04 10:30:00,Convicted under IPC 408 for corporate espionage. Sentenced to 12 years imprisonment.
+RC-04/2021/ACE/JMU,C027,2021-10-06 14:15:00,Convicted under IPC 307 for attempted drone attack. Sentenced to 15 years imprisonment.
+RC-04/2021/ACE/AMD,C028,2021-08-08 12:10:00,Convicted under IPC 307 for journalist attack. Sentenced to 10 years imprisonment.
+RC-04/2021/ACE/KOL,C029,2021-08-07 09:30:00,Found guilty under IPC 420 for accounting fraud. Sentenced to 8 years imprisonment.
+RC-05/2021/ACE/DLI,C030,2021-08-01 08:55:00,Found guilty under IPC 302 for murder. Sentenced to life imprisonment.
+RC-05/2021/ACE/GUW,C031,2021-09-02 11:40:00,Guilty of attempted murder under IPC 307. Sentenced to 20 years imprisonment.
+RC-05/2021/ACE/HYD,C032,2021-09-07 15:25:00,Convicted under IPC 420 for insider trading. Sentenced to 5 years imprisonment.
+RC-05/2021/ACE/MUM,C033,2021-08-06 14:15:00,Found guilty under IPC 171 for bribery. Sentenced to 3 years imprisonment.
+RC-05/2021/ACE/LKW,C034,2021-09-12 09:20:00,Convicted under IPC 403 for insider trading. Sentenced to 6 years imprisonment.
+RC-10/2021/ACE/DLI,C035,2021-11-10 13:50:00,Guilty of bribery under IPC 120B. Sentenced to 8 years imprisonment.
+RC-05/2021/ACE/CHE,C036,2021-11-02 10:35:00,Convicted under NDPS Act for drug trafficking. Sentenced to life imprisonment.
+RC-05/2021/ACE/AMD,C037,2021-10-06 11:45:00,Found guilty under IPC 420 for insurance fraud. Sentenced to 10 years imprisonment.
+RC-01/2022/ACE/DLI,C038,2022-02-01 09:30:00,Convicted under IPC 302 for murder. Sentenced to life imprisonment.
+RC-01/2022/ACE/HYD,C039,2022-02-06 11:45:00,Convicted under IT Act for cybercrime. Sentenced to 8 years imprisonment.
+RC-01/2022/ACE/MUM,C040,2022-01-09 10:10:00,Found guilty under IPC 420 for fraud. Sentenced to 12 years imprisonment.
+RC-01/2022/ACE/LKW,C041,2022-01-10 08:50:00,Convicted under IPC 417 for cheating. Sentenced to 7 years imprisonment.
+RC-06/2022/ACE/DLI,C042,2022-03-06 15:30:00,Guilty of doping under IPC 416. Sentenced to 5 years imprisonment.
+RC-01/2022/ACE/CHE,C043,2022-03-08 16:25:00,Convicted under IPC 307 for extortion. Sentenced to 10 years imprisonment.
+RC-01/2022/ACE/AMD,C044,2022-03-27 12:40:00,Found guilty under IPC 420 for fraud. Sentenced to 8 years imprisonment.
+RC-01/2022/ACE/KOL,C045,2022-01-05 09:55:00,Convicted under IPC 420 for counterfeiting. Sentenced to 10 years imprisonment.
+RC-06/2022/ACE/CHE,C046,2022-01-29 17:45:00,Guilty of corruption under IPC 420. Sentenced to 15 years imprisonment.
+RC-02/2022/ACE/LKW,C047,2022-03-01 08:40:00,Convicted under IPC 506 for threatening and extorting money. Sentenced to 7 years imprisonment.
+RC-02/2022/ACE/GUW,C048,2022-03-07 11:55:00,Found guilty under IPC 302 for killing civilians. Sentenced to life imprisonment.
+RC-02/2022/ACE/BGL,C049,2022-02-08 15:20:00,Convicted under IPC 302 for murder. Sentenced to life imprisonment.
+RC-02/2022/ACE/MUM,C050,2022-03-06 14:10:00,Found guilty under Official Secrets Act for espionage. Sentenced to 10 years imprisonment.
+RC-07/2022/ACE/LKW,C051,2022-02-28 09:25:00,Convicted under IPC 302 for murder. Sentenced to life imprisonment.
+RC-02/2022/ACE/JMU,C052,2022-03-03 13:50:00,Guilty of theft under IPC 379. Sentenced to 3 years imprisonment.
+RC-02/2022/ACE/CHE,C053,2022-02-15 10:35:00,Convicted under UAPA for terrorism. Sentenced to life imprisonment.
+RC-02/2022/ACE/AMD,C054,2022-03-14 11:45:00,Found guilty under IPC 420 for attempt of illegal shipping. Sentenced to 8 years imprisonment.
+RC-02/2022/ACE/KOL,C055,2022-03-07 14:55:00,Convicted under IPC 489C for dealing with forged currency notes. Sentenced to 5 years imprisonment.
+RC-07/2022/ACE/BGL,C049,2022-02-12 16:40:00,Guilty of drug trafficking under NDPS Act. Sentenced to 10 years imprisonment.
+RC-03/2022/ACE/DLI,C057,2022-03-26 08:15:00,Found guilty under IPC 307 for attempted murder. Sentenced to 15 years imprisonment.
+RC-03/2022/ACE/GUW,C058,2022-04-12 10:30:00,Convicted under IPC 370 for human trafficking. Sentenced to 10 years imprisonment.
+RC-03/2022/ACE/HYD,C059,2022-05-12 16:20:00,Guilty of manufacturing and distributing counterfeit goods under IPC 489B. Sentenced to 7 years imprisonment.
+RC-03/2022/ACE/JMU,C060,2022-03-10 14:20:00,Convicted under IPC 304A for causing death by negligence. Sentenced to 3 years imprisonment.
+RC-03/2022/ACE/CHE,C061,2022-04-28 11:10:00,Guilty of murder under IPC 302. Sentenced to life imprisonment.
+RC-03/2022/ACE/AMD,C062,2022-03-21 13:45:00,Convicted under IPC 420 for import duty evasion. Sentenced to 8 years imprisonment.
+RC-03/2022/ACE/KOL,C063,2022-04-14 15:55:00,Found guilty under NDPS Act for drug trafficking. Sentenced to 10 years imprisonment.
+RC-03/2022/ACE/BGL,C064,2022-04-18 17:30:00,Convicted under IPC 417 for stabbing. Sentenced to 7 years imprisonment.
+RC-04/2022/ACE/LKW,C065,2022-06-08 09:30:00,Guilty of sedition under IPC 124A. Sentenced to life imprisonment.
+RC-04/2022/ACE/GUW,C066,2022-06-03 14:20:00,Convicted under Arms Act for killing a police officer. Sentenced to death.
+RC-04/2022/ACE/MUM,C007,2022-06-01 10:10:00,Convicted under IPC 409 for fraud. Sentenced to 12 years imprisonment.
+RC-09/2022/ACE/LKW,C068,2022-05-17 08:50:00,Found guilty under IPC 467 for invoice fraud. Sentenced to 8 years imprisonment.
+RC-04/2022/ACE/JMU,C069,2022-06-03 15:30:00,Convicted under IPC 120B for aiding a criminal conspiracy. Sentenced to 15 years imprisonment.
+RC-04/2022/ACE/CHE,C070,2022-05-21 16:25:00,Guilty of murder under IPC 302. Sentenced to life imprisonment.
+RC-04/2022/ACE/KOL,C071,2022-06-04 09:55:00,Convicted under IPC 307 for attempted murder. Sentenced to 20 years imprisonment.
+RC-04/2022/ACE/BGL,C072,2022-06-01 17:45:00,Guilty of cybercrime under IT Act. Sentenced to 10 years imprisonment.
+RC-05/2022/ACE/DLI,C073,2022-07-02 08:40:00,Convicted under NDPS Act for heroin possession in Amritsar. Sentenced to 10 years imprisonment.
+RC-05/2022/ACE/GUW,C074,2022-08-01 11:55:00,Found guilty under IPC 302 for killing of Ex-Chairman at Manipur Khabeisoi. Sentenced to life imprisonment.
+RC-05/2022/ACE/CHE,C075,2022-07-23 15:20:00,Convicted under UAPA for involvement in unconventional warfare training at Hyderabad. Sentenced to life imprisonment.
+RC-05/2022/ACE/MUM,C076,2022-07-17 14:10:00,Guilty of illegal mining in Goa under IPC 379. Sentenced to 7 years imprisonment.
+RC-10/2022/ACE/LKW,C077,2022-07-11 09:25:00,Convicted under IPC 420 for involvement in international smuggling ring at Lucknow Airport. Sentenced to 7 years imprisonment.
+RC-05/2022/ACE/JMU,C078,2022-06-08 13:50:00,Found guilty under IPC 307 for inciting public unrest in Jammu. Sentenced to 5 years imprisonment.
+RC-10/2022/ACE/CHE,C079,2022-08-03 10:35:00,Convicted under IPC 409 for fraud in Kochi defense contract. Sentenced to 10 years imprisonment.
+RC-05/2022/ACE/AMD,C080,2022-09-02 11:45:00,Guilty of land grab in Jaipur under IPC 420. Sentenced to 8 years imprisonment.
+RC-10/2022/ACE/GUW,C081,2022-09-10 14:55:00,Found guilty under IPC 326 for brutal assault on a taxi driver in Kolkata. Sentenced to 10 years imprisonment.
+RC-05/2022/ACE/BGL,C082,2022-09-16 16:40:00,Convicted under IT Act for data breach at major retailer in Bengaluru. Sentenced to 10 years imprisonment.
+RC-01/2023/ACE/LKW,C083,2023-02-01 08:00:00,Guilty of explosion at Ludhiana Court Complex under IPC 304A. Sentenced to 10 years imprisonment.
+RC-01/2023/ACE/GUW,C084,2023-02-02 10:15:00,Found guilty under Arms Act for possession of arms in Nagaland. Sentenced to 7 years imprisonment.
+RC-01/2023/ACE/BGL,C085,2023-02-03 11:30:00,Convicted under IPC 307 for shooting in Hyderabad. Sentenced to 15 years imprisonment.
+RC-01/2023/ACE/MUM,C086,2023-02-04 12:45:00,Guilty of IT scam in Pune under IPC 420. Sentenced to 8 years imprisonment.
+RC-01/2023/ACE/JMU,C087,2023-02-05 14:00:00,Found guilty under IPC 302 for poisoning writer in Lucknow. Sentenced to life imprisonment.
+RC-06/2023/ACE/JMU,C088,2023-02-06 15:15:00,Convicted under IPC 302 for killing Constable Rajinder Kumar in Jammu. Sentenced to life imprisonment.
+RC-01/2023/ACE/CHE,C089,2023-02-07 16:30:00,Guilty of insider trading in art market,Chennai under IPC 417. Sentenced to 7 years imprisonment.
+RC-01/2023/ACE/AMD,C090,2023-02-08 17:45:00,Found guilty under IPC 420 for IPR theft in Ahmedabad. Sentenced to 8 years imprisonment.
+RC-01/2023/ACE/KOL,C091,2023-02-09 09:00:00,Convicted under IPC 420 for accounting scandal in Kolkata. Sentenced to 8 years imprisonment.
+RC-06/2023/ACE/BGL,C092,2023-02-10 10:15:00,Guilty of crypto exchange hack in Bengaluru under IT Act. Sentenced to 10 years imprisonment.
+RC-02/2023/ACE/DLI,C093,2023-03-01 11:30:00,Found guilty under IPC 276C for tax evasion in Chandigarh. Sentenced to 5 years imprisonment.
+RC-02/2023/ACE/GUW,C094,2023-03-02 12:45:00,Convicted under Arms Act for possession of arms in Guwahati. Sentenced to 7 years imprisonment.
+RC-02/2023/ACE/HYD,C095,2023-03-03 14:00:00,Guilty of cyber extortion in Bhubaneswar under IPC 420. Sentenced to 8 years imprisonment.
+RC-02/2023/ACE/MUM,C007,2023-03-04 15:15:00,Found guilty under IPC 304A for hit-and-run in Pune. Sentenced to 7 years imprisonment.
+RC-07/2023/ACE/DLI,C097,2023-03-05 16:30:00,Convicted under IPC 420 for involvement in drug distribution ring in Lucknow. Sentenced to 7 years imprisonment.
+RC-06/2023/ACE/DLI,C098,2023-03-06 17:45:00,Found guilty under IPC 326 for trying to enter POK. Sentenced to 7 years imprisonment.
+RC-04/2023/ACE/JMU,C099,2023-06-06 15:45:00,Found guilty under IPC 302 for murder at Srinagar,Jammu and Kashmir. Sentenced to life imprisonment.
+RC-04/2023/ACE/CHE,C100,2023-06-07 17:00:00,Found guilty under IPC 379 for theft at Chennai,Tamil Nadu. Sentenced to 3 years imprisonment.
+RC-09/2023/ACE/MUM,C101,2023-06-08 18:15:00,Found guilty under Narcotic Drugs and Psychotropic Substances Act at Ahmedabad,Gujarat. Sentenced to 7 years imprisonment.
+RC-09/2023/ACE/GUW,C102,2023-06-09 19:30:00,Found guilty under IPC 427 for causing damage to property at Kolkata,West Bengal. Sentenced to 2 years imprisonment.
+RC-09/2023/ACE/HYD,C103,2023-06-10 20:45:00,Found guilty under IPC 304A for causing death by negligence at Bengaluru,Karnataka. Sentenced to 5 years imprisonment.
+RC-05/2023/ACE/DLI,C104,2023-07-02 12:15:00,Found guilty under IPC 279 for rash driving at Chandigarh,Punjab. Sentenced to 2 years imprisonment.
+RC-05/2023/ACE/GUW,C105,2023-07-03 13:30:00,Found guilty under Explosive Substances Act at Ukhrul,Manipur. Sentenced to 10 years imprisonment.
+RC-05/2023/ACE/HYD,C106,2023-07-04 14:45:00,Found guilty under IPC 392 for robbery at Hyderabad,Telangana. Sentenced to 7 years imprisonment.
+RC-05/2023/ACE/MUM,C107,2023-07-05 16:00:00,Found guilty under Unlawful Activities (Prevention) Act at Mumbai,Maharashtra. Sentenced to 15 years imprisonment.
+RC-05/2023/ACE/LKW,C108,2023-07-06 17:15:00,Found guilty under IPC 121 for waging war against the state at Kanpur,Uttar Pradesh. Sentenced to life imprisonment.
+RC-05/2023/ACE/JMU,C109,2023-07-07 18:30:00,Found guilty under IPC 468 for forgery at Srinagar,Jammu and Kashmir. Sentenced to 5 years imprisonment.
+RC-10/2023/ACE/HYD,C110,2023-07-08 19:45:00,Found guilty under IPC 307 for attempt to murder at Chennai,Tamil Nadu. Sentenced to 10 years imprisonment.
+RC-05/2023/ACE/AMD,C111,2023-07-09 09:00:00,Found guilty under IPC 376 for rape at Ahmedabad,Gujarat. Sentenced to 10 years imprisonment.
+RC-10/2023/ACE/GUW,C112,2023-07-10 10:15:00,Found guilty under IPC 379A for theft in dwelling house at Kolkata,West Bengal. Sentenced to 3 years imprisonment.
+RC-05/2023/ACE/BGL,C113,2023-07-11 11:30:00,Found guilty under IPC 498A for cruelty by husband or relatives of husband at Bengaluru,Karnataka. Sentenced to 2 years imprisonment.
+RC-01/2024/ACE/JMU,C114,2024-03-01 09:45:00,Found guilty under IPC 420 for cheating and dishonestly inducing delivery of property at Amritsar,Punjab. Sentenced to 5 years imprisonment.
+RC-01/2024/ACE/GUW,C115,2024-03-02 11:00:00,Found guilty under IPC 302 for murder at Guwahati,Assam. Sentenced to life imprisonment.
+RC-01/2024/ACE/CHE,C116,2024-03-03 12:15:00,Found guilty under IPC 304B for dowry death at Tamil Nadu. Sentenced to 7 years imprisonment.
+RC-01/2024/ACE/MUM,C117,2024-03-04 13:30:00,Found guilty under IPC 377 for unnatural offences at Mumbai,Maharashtra. Sentenced to 3 years imprisonment.
+RC-01/2024/ACE/LKW,C118,2024-03-05 14:45:00,Found guilty under IPC 354A for sexual harassment at Gomtinagar,Lucknow,Uttar Pradesh. Sentenced to 2 years imprisonment.
+RC-06/2024/ACE/JMU,C119,2024-03-06 16:00:00,Found guilty under IPC 363 for kidnapping at Srinagar,Jammu and Kashmir. Sentenced to 7 years imprisonment.
+RC-06/2024/ACE/CHE,C120,2024-03-07 17:15:00,Found guilty under IPC 498 for enticing or taking away or detaining with criminal intent a married woman at Chennai,Tamil Nadu. Sentenced to 3 years imprisonment.
+RC-01/2024/ACE/AMD,C121,2024-03-08 18:30:00,Found guilty under IPC 304A for causing death by negligence at Ahmedabad,Gujarat. Sentenced to 5 years imprisonment.
+RC-01/2024/ACE/KOL,C122,2024-03-09 19:45:00,Found guilty under IPC 379 for theft at Kolkata,West Bengal. Sentenced to 2 years imprisonment.
+RC-01/2024/ACE/BGL,C123,2024-03-10 20:00:00,Found guilty under IPC 323 for punishment for voluntarily causing hurt at Bengaluru,Karnataka. Sentenced to 1 year imprisonment.
+RC-02/2024/ACE/DLI,C124,2024-04-01 07:45:00,Found guilty under IPC 379 for theft at Delhi. Sentenced to 2 years imprisonment.
+RC-02/2024/ACE/GUW,C125,2024-04-02 09:00:00,Found guilty under IPC 304B for dowry death at Tinsukia,Assam. Sentenced to 7 years imprisonment.
+RC-02/2024/ACE/HYD,C126,2024-04-03 10:15:00,Found guilty under IPC 304A for causing death by negligence at Hyderabad,Telangana. Sentenced to 5 years imprisonment.
+RC-03/2024/ACE/MUM,C127,2024-04-04 09:20:00,Found guilty under IPC 489B for possession of counterfeit currency at Mumbai,Maharashtra. Sentenced to 3 years imprisonment.
